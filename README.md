@@ -6,8 +6,7 @@ If your PC is running a background task and you want something cool to leave on 
 
 ## How to use it?
 
-Open the page.
-
+Open the page.(https://md-althaf.github.io/Screen-saver/screen%20saver/index.html)
 Clear the default text.
 
 Type your preferred text.
