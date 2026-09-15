@@ -23,4 +23,7 @@ I made it just for fun!
 
 Nothing too serious — I just wanted to recreate that nostalgic bouncing-screen effect from old DVD players and CRT TVs.
 
+# Usage of AI
+I have used AI in UI Style.css for the CRT look effect.
+
 ## Made By Md-Althaf Alias Bose Nova
